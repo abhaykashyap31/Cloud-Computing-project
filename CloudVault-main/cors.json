@@ -3,6 +3,6 @@
     "origin": ["http://localhost:3000", "http://localhost:5000"],
     "method": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     "responseHeader": ["Content-Type", "Authorization", "Content-Length", "User-Agent", "x-goog-resumable"],
-    "maxAgeSeconds": 3600
+    "maxAgeSeconds": 1200
   }
 ] 
